@@ -42,11 +42,4 @@ While creating this project, I explored and strengthened several core concepts:
 
 ---
 
-## 📌 Future Scope
-- 🔔 Add reminders & notifications  
-- 📅 Due date & priority for tasks  
-- ☁️ Save tasks in **local storage**  
-- 🌙 Dark mode support  
-
----
 
